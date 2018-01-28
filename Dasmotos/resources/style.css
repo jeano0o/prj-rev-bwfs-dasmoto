@@ -1,0 +1,26 @@
+html
+  {font-family: Helvetica, sans-serif;}
+
+h1
+  {background-image: url(/Users/jeanegger/Desktop/projects/Dasmotos/resources/pattern.jpeg);
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;}
+
+h2
+  {font-size: 32px;
+  font-weight: bold;
+  color: white;}
+
+#brushes
+  {background-color: mediumspringgreen}
+
+#frames
+  {background-color: lightcoral;}
+
+#paint
+  {background-color: skyblue;}
+
+.strongblue
+  {font-weight: bold;
+  color: blue;}
